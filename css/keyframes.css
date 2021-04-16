@@ -1,0 +1,44 @@
+
+@keyframes wave__white{
+    0%{
+        left: -150px;
+    }
+    30%{
+        left: 50px;
+    }
+    60%{
+        left: 150px;
+    }
+    100%{
+        left: -150px;
+    }
+}
+
+@keyframes wave__white-opacity24{
+    0%{
+        left: 300px;
+    }
+    30%{
+        left: -150px;
+    }
+    60%{
+        left: 150px;
+    }
+    100%{
+        left: 300px;
+    }
+}
+
+@keyframes wave__white-opacity30{
+    0%{
+        left: -400px;
+    }
+    40%{
+        left: -200px;
+    }
+    60%{
+        left: 200px;
+    }
+    100%{
+        left: -400px;
+}

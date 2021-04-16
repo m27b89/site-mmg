@@ -1,0 +1,395 @@
+@media (max-width: 1200px){
+    .header{
+        overflow: hidden;
+        width: 100%;
+    }
+    .logo{
+        margin: 15px 0 15px 20px;
+    }
+    .product__row{
+        margin-right: 50px;
+    }
+    .main__item{
+        margin-left: 30px;
+    }
+    .footer__inner{
+        padding: 40px 60px;
+    }
+    .header__inner{
+        justify-content: space-around;
+    }
+    .header__top-inner{
+        justify-content: space-around;
+    }
+}
+
+@media (max-width: 1110px){
+    .menu{
+        margin: 20px 0 20px 0;
+    }
+    .header__content{
+        background-image: none;
+        background: #3c3c3c;
+    }
+    .header__content-wave{
+        display: none;
+    }
+    .product__img{
+        display: none;
+    }
+    .product__row-control{
+        margin-bottom: 60px;
+        text-align: center;
+    }
+    .product__row-slider-childer{
+        text-align: center;
+    }
+    .product__row{
+        margin: 20px auto;
+    }
+    .download__buttons{
+        display: block;
+    }
+    .download__btn-item{
+        margin: 20px auto;
+    }
+    .advantages__column{
+        justify-content: space-around;
+    }
+    
+}
+
+@media (max-width: 1035px){
+    .menu{
+        display: none;
+    }
+    .header__content-inner{
+        padding: 100px 50px;
+    }
+    .menu__navigation{
+        display: none;
+    }
+    .menu__gamburger{
+        display: block;
+    }
+    .contacts__subtitle{
+        padding: 0 150px 60px 100px;
+    }
+}
+
+@media (max-width: 790px){
+    .header__content-inner{
+        padding: 60px 50px;
+    }
+    .download{
+        background-image: none;
+        height: 500px;
+    }
+    .download__circle-bg{
+        display: none;
+    }
+    .download__inner{
+        padding: 60px 0;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .download__title{
+        text-align: center;
+        color: #3c3c3c;
+    }
+    .download__subtitle{
+        text-align: center;
+        color: #3c3c3c;
+    }
+    .login{
+        width: 500px;
+        margin: 0;
+    }
+    .login-email{
+        width: 400px;
+        font-size: 20px;
+    }
+    .login-password{
+        width: 400px;
+        font-size: 20px;
+    }
+    .registration-get{
+        font-size: 20px;
+    }
+    .login-send{
+        font-size: 20px;
+        padding: 10px 15px;
+    }
+    .login-close{
+        font-size: 60px;
+    }
+    .registration-name{
+        width: 400px;
+        font-size: 20px;
+    }
+    .registration-email{
+        width: 400px;
+        font-size: 20px;
+    }
+    .registration-password{
+        width: 400px;
+        font-size: 20px;
+    }
+    .registration__btn{
+        font-size: 20px;
+        padding: 10px 15px;
+    }
+    .login-get{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 720px){
+    .footer__inner{
+        flex-wrap: wrap;
+    }
+    .footer__row{
+        text-align: center;
+        padding: 40px 0;
+    }
+}
+
+@media (max-width: 720px){
+    .header__content-inner{
+        display: block;
+    }
+    .header__advantages-row{
+        padding: 0 50px;
+    }
+    .header__content-inner{
+        padding: 20px 20px;
+        text-align: center;
+    }
+    .header__title{
+        margin: 0;
+    }
+    .title__list-energy{
+        width: 300px;
+        margin: 10px auto;
+    }
+    .title__list-technology{
+        margin: 40px 0;
+    }
+    .advantages-list{
+        margin: 80px 0;
+    }
+    .contacts__subtitle{
+        padding: 0 50px 40px 50px;
+    }
+    .contacts__form{
+        width: 100%;
+    }
+    .item-name{
+        width: 90%;
+        margin: 0;
+    }
+    .item-email{
+        width: 90%;
+        margin: 20px 0;
+    }
+    .item-message{
+        width: 90%;
+        height: 120px;
+    }
+}
+
+@media (max-width: 590px){
+    .advantages-list{
+        margin: 50px 0;
+    }
+    .advantages-list{
+        margin: 40px 0;
+    }
+    .header__advantages-row{
+        padding: 0;
+    }
+    .advantages-list__img{
+        display: none;
+    }
+    .advantages-list__item{
+        padding: 10px 50px;
+    }
+    .login{
+        width: 400px;
+        margin: 0;
+    }
+    .login-email{
+        width: 300px;
+        font-size: 20px;
+    }
+    .login-password{
+        width: 300px;
+        font-size: 20px;
+    }
+    .registration-get{
+        font-size: 20px;
+    }
+    .login-send{
+        font-size: 20px;
+        padding: 10px 15px;
+    }
+    .login-close{
+        font-size: 60px;
+    }
+    .registration-name{
+        width: 300px;
+        font-size: 20px;
+    }
+    .registration-email{
+        width: 300px;
+        font-size: 20px;
+    }
+    .registration-password{
+        width: 300px;
+        font-size: 20px;
+    }
+    .registration__btn{
+        font-size: 20px;
+        padding: 10px 15px;
+    }
+    .login-get{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 440px){
+    .main__item-subscribe{
+        padding: 0 150px 30px 50px;
+    }
+    .product{
+        display: none;
+    }
+    .header__inner{
+        display: block;
+        text-align: center;
+    }
+    .menu__navigation{
+        width: 400px;
+    }
+}
+
+@media (max-width: 420px){
+    .advantages-list{
+        margin: 10px 0;
+    }
+    .advantages-list__item{
+        padding: 20px 10px;
+    }
+    .title__list-energy{
+        width: 200px;
+    }
+    .main__item-subscribe{
+        padding: 0 200px 10px 50px;
+    }
+    .login{
+        width: 300px;
+        margin: 0;
+    }
+    .login-email{
+        width: 200px;
+        font-size: 20px;
+    }
+    .login-password{
+        width: 200px;
+        font-size: 20px;
+    }
+    .registration-get{
+        font-size: 20px;
+    }
+    .login-send{
+        font-size: 20px;
+        padding: 10px 15px;
+    }
+    .login-close{
+        font-size: 60px;
+    }
+    .registration-name{
+        width: 200px;
+        font-size: 20px;
+    }
+    .registration-email{
+        width: 200px;
+        font-size: 20px;
+    }
+    .registration-password{
+        width: 200px;
+        font-size: 20px;
+    }
+    .registration__btn{
+        font-size: 20px;
+        padding: 10px 15px;
+    }
+    .login-get{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 390px){
+    .download__buttons{
+        padding: 5px 0;
+    }
+    .menu__navigation{
+        width: 300px;
+    }
+}
+
+@media (max-width: 320px){
+    .logo{
+        display: none;
+    }
+    .download__buttons{
+        padding: 5px 0;
+    }
+    .menu__navigation{
+        width: 280px;
+    }
+    .header__content{
+        height: 700px;
+    }
+    .login{
+        width: 250px;
+        margin: 0;
+    }
+    .login-email{
+        width: 200px;
+        font-size: 20px;
+    }
+    .login-password{
+        width: 200px;
+        font-size: 20px;
+    }
+    .registration-get{
+        font-size: 20px;
+    }
+    .login-send{
+        font-size: 20px;
+        padding: 10px 15px;
+    }
+    .login-close{
+        font-size: 60px;
+    }
+    .registration-name{
+        width: 200px;
+        font-size: 20px;
+    }
+    .registration-email{
+        width: 200px;
+        font-size: 20px;
+    }
+    .registration-password{
+        width: 200px;
+        font-size: 20px;
+    }
+    .registration__btn{
+        font-size: 20px;
+        padding: 10px 15px;
+    }
+    .login-get{
+        font-size: 20px;
+    }
+}
